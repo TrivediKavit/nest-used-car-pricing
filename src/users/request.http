@@ -21,7 +21,7 @@ DELETE http://localhost:3000/auth/1
 
 
 ### Update a User with a given id
-PATCH http://localhost:3000/auth/1
+PATCH http://localhost:3000/auth/2
 Content-Type: application/json
 
 {
